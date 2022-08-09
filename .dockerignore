@@ -1,0 +1,5 @@
+src
+target/classes
+target/lib*
+target/*.txt
+target/output
