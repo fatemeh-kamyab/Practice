@@ -1,5 +1,5 @@
 welcome-server:
   container_name: welcome-server
-  image: docker-welcome-1.0:welcome-docker-practice-1.0
+  image: docker-welcome-1.0:latest
   ports:
     - 8080:8080
